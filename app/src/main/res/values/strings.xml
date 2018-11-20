@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Crypto Pigeon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email_credentials">Введите учетные данные электронной почты</string>
+    <string name="enter_email_address">Введите email адрес</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="next">Далее</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="enter_input_message_server_settings">Введите настройки сервера входящих сообщений</string>
+    <string name="enter_server_address">Введите адрес сервера</string>
+    <string name="server">Сервер</string>
+    <string name="security">Безопасность</string>
+    <string name="enter_port">Введите порт</string>
+    <string name="port">Порт</string>
+    <string name="protocol">Протокол</string>
+    <string name="enter_output_message_server_settings">Введите настройки сервера исходящих сообщений</string>
+    <string name="smtp_server">SMTP Сервер</string>
+
+    <string-array name="auth_protocols">
+        <item>Нет</item>
+        <item>SSL</item>
+    </string-array>
+
+
+    <string-array name="receive_msg_protocols">
+        <item>POP3</item>
+        <item>IMAP</item>
+    </string-array>
 </resources>
